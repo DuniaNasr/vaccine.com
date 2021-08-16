@@ -1,0 +1,345 @@
+@media screen and (max-width: 400px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /* first page */
+
+  .first-image img {
+    width: 100%;
+    position: relative;
+  }
+  .vaccine {
+    width: 330px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    left: 6%;
+    border-radius: 50px;
+  }
+  .vaccine h2 {
+    position: absolute;
+    top: 8%;
+  }
+  .hone {
+    color: rgb(2, 2, 58);
+    left: 18%;
+  }
+  .htwo {
+    margin-top: 35px;
+    margin-left: 95px;
+    color: blue;
+  }
+  .par1 {
+    position: absolute;
+    top: 38%;
+    left: 16%;
+    line-height: 22px;
+    color: gray;
+    font-size: 15px;
+  }
+  .btn {
+    position: absolute;
+    top: 63%;
+    left: 9%;
+    width: 270px;
+    height: 58px;
+    border-radius: 20px;
+    background-color: rgba(38, 201, 230, 0.952);
+    font-size: 20px;
+    color: rgb(248, 248, 248);
+    border: 1px solid rgba(38, 201, 230, 0.952);
+  }
+  .par2 {
+    position: absolute;
+    top: 88%;
+    left: 20%;
+    color: gray;
+    font-size: 15px;
+  }
+
+  /* second page */
+
+  .second-image {
+    margin-top: 10%;
+  }
+  .welcome {
+    margin-left: 28px;
+    color: grey;
+    font-size: 20px;
+  }
+  .hthree {
+    margin-left: 28px;
+    margin-top: 3px;
+    color: rgb(2, 2, 58);
+  }
+  .personal {
+    margin-left: 77%;
+    margin-top: -15%;
+    width: 55px;
+    position: absolute;
+  }
+  .third-image {
+    margin-top: 5%;
+  }
+  .imgthree {
+    position: relative;
+    margin-left: 5%;
+    width: 335px;
+  }
+  .hfour {
+    position: absolute;
+    margin-top: -37%;
+    margin-left: 12%;
+    color: white;
+  }
+  .par3 {
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 12%;
+    color: rgb(231, 231, 231);
+    font-size: 12px;
+  }
+  .vaccin-title {
+    display: flex;
+    margin-top: 10%;
+  }
+  .hfive {
+    margin-left: 5%;
+    color: rgb(2, 2, 58);
+  }
+  .span1 {
+    margin-left: 25%;
+    color: blue;
+    font-size: 18px;
+  }
+  .vaccin-title i {
+    margin-left: 4%;
+    font-size: 22px;
+    color: blue;
+  }
+  .vaccin-box {
+    margin-top: 10%;
+    display: flex;
+  }
+  .box1 {
+    width: 140px;
+    height: 225px;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 25px;
+    position: relative;
+    margin-left: 5%;
+  }
+  .box1 img {
+    padding-left: 18%;
+    padding-top: 10%;
+    width: 100px;
+    margin-bottom: 5%;
+  }
+  .span2 {
+    padding-left: 23%;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(2, 2, 58);
+  }
+  .box1 i {
+    padding-left: 10%;
+    padding-top: 6%;
+    color: blue;
+  }
+  .span3 {
+    color: blue;
+    padding-left: 4%;
+    font-size: 15px;
+  }
+  .box1.last {
+    width: 140px;
+    height: 225px;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 25px;
+    position: relative;
+    margin-right: -20%;
+  }
+  .vaccine-title1 {
+    margin-top: 10%;
+    margin-left: 5%;
+    position: relative;
+  }
+
+  .span5 {
+    margin-left: 60%;
+    margin-top: -5%;
+    position: absolute;
+    font-size: 18px;
+    color: blue;
+  }
+  .vaccine-title1 i {
+    margin-left: 53%;
+    margin-top: -5%;
+    position: absolute;
+    font-size: 18px;
+    color: blue;
+  }
+  .span4 {
+    color: gray;
+    position: absolute;
+    margin-top: 10px;
+  }
+  .house {
+    margin-top: 15%;
+    width: 345px;
+    height: 120px;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 20px;
+    margin-left: 4%;
+    position: relative;
+  }
+  .house img {
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 80px;
+  }
+  .house h3 {
+    position: absolute;
+    top: 15%;
+    left: 35%;
+  }
+  .house p {
+    position: absolute;
+    top: 38%;
+    left: 35%;
+    font-size: 13px;
+    color: gray;
+  }
+  .styleit {
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    color: blue;
+  }
+  .icons {
+    margin-top: 10%;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    color: rgb(189, 182, 182);
+  }
+  /* third page  */
+  .third-page {
+    margin-top: 10%;
+  }
+  #icon1 {
+    margin-left: 10%;
+    font-size: 35px;
+  }
+  .div1 {
+    margin-top: 8%;
+    margin-left: 8%;
+    position: relative;
+  }
+  .vac2 {
+    width: 160px;
+    height: 245px;
+  }
+  .sinovax {
+    position: absolute;
+    left: 45%;
+    top: 6%;
+  }
+  .span6 {
+    position: absolute;
+    left: 45%;
+    top: 22%;
+    color: gray;
+  }
+  .num {
+    position: absolute;
+    left: 45%;
+    top: 40%;
+    color: gray;
+  }
+  .pnum {
+    position: absolute;
+    left: 66%;
+    top: 42%;
+    font-size: 15px;
+  }
+
+  .num1 {
+    position: absolute;
+    left: 45%;
+    top: 70%;
+    color: gray;
+  }
+  .pnum1 {
+    position: absolute;
+    left: 66%;
+    top: 70%;
+    font-size: 15px;
+  }
+  .text {
+    margin-top: 10%;
+    margin-left: 5%;
+  }
+  .text p {
+    font-size: 20px;
+    margin-top: 4%;
+    width: 340px;
+    color: gray;
+  }
+  .user {
+    margin-top: 10%;
+    margin-left: 5%;
+    position: relative;
+  }
+  .namee {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+  }
+  .date {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+  }
+  .four-num {
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    color: blue;
+  }
+  .paragraph1 {
+    margin-top: 8%;
+    margin-left: 24%;
+    font-size: 15px;
+    line-height: 30px;
+    color: rgb(2, 2, 58);
+  }
+  .final {
+    margin-top: 10%;
+    margin-left: 6%;
+    width: 330px;
+    height: 75px;
+    border-radius: 20px;
+    position: relative;
+    background-color: rgb(233, 233, 233);
+  }
+  .sfinal {
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    color: gray;
+    font-size: 20px;
+  }
+  .final i {
+    position: absolute;
+    top: 30%;
+    left: 82%;
+    font-size: 35px;
+    color: blue;
+  }
+}
